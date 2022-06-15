@@ -13,16 +13,16 @@ This repository is divided in:
 
 
 * Project Architecture slides 
-	- into the folder "slide" or [here]()
+	- into the folder "slide" or [here](https://github.com/pikka97/internet_of_thing_piccardo_final_project/blob/main/slide/slides_presenting_the_project.pdf)
 
 
 
 * Project video presentation 
-	- into the folder "video" or [here]()
+	- into the folder "video" or [here](https://github.com/pikka97/internet_of_thing_piccardo_final_project/raw/main/video/video_presenting_the_project.mp4)
 
 
 
-* Project sources ("src" folder or [here]())
+* Project sources ("src" folder or [here](https://github.com/pikka97/internet_of_thing_piccardo_final_project/tree/main/src))
 	- `circuitpython_sources`
 		- contains the sources for the Circuitpython program to:
 			- get data from the sensors
