@@ -1,0 +1,16 @@
+{
+  "domain": "niu_gsm_iot",
+  "name": "Niu Smart Plug",
+  "config_flow": true,
+  "documentation": "https://github.com/pikka97/internet_of_thing_piccardo_final_projet",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": ["requests"],
+  "codeowners": [
+    "@pikka97"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "0.0.1"
+}
